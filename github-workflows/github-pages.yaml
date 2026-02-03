@@ -1,4 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow
 name: Deploy static content to Pages
 
 on:
